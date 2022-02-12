@@ -1,0 +1,10 @@
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedEvalutation\RubricsBasedEvalutation\bin\Debug\RubricsBasedEvalutation.exe.config
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedEvalutation\RubricsBasedEvalutation\bin\Debug\RubricsBasedEvalutation.exe
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedEvalutation\RubricsBasedEvalutation\bin\Debug\RubricsBasedEvalutation.pdb
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedEvalutation\RubricsBasedEvalutation\obj\Debug\RubricsBasedEvalutation.csprojAssemblyReference.cache
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedEvalutation\RubricsBasedEvalutation\obj\Debug\RubricsBasedEvalutation.Properties.Resources.resources
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedEvalutation\RubricsBasedEvalutation\obj\Debug\RubricsBasedEvalutation.csproj.GenerateResource.cache
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedEvalutation\RubricsBasedEvalutation\obj\Debug\RubricsBasedEvalutation.csproj.CoreCompileInputs.cache
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedEvalutation\RubricsBasedEvalutation\obj\Debug\RubricsBasedEvalutation.exe
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedEvalutation\RubricsBasedEvalutation\obj\Debug\RubricsBasedEvalutation.pdb
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedEvalutation\RubricsBasedEvalutation\obj\Debug\RubricsBasedEvalutation.Admin.resources
