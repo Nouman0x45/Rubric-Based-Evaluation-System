@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RubricsBasedEvalutation.Frames;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,8 @@ namespace RubricsBasedEvalutation
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Admin());
+            Application.Run(new Student());
+            //Application.Run(new Admin());
         }
     }
 }
