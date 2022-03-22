@@ -1,0 +1,14 @@
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\bin\Debug\RubricsBasedProject.exe.config
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\bin\Debug\RubricsBasedProject.exe
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\bin\Debug\RubricsBasedProject.pdb
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\obj\Debug\RubricsBasedProject.csprojAssemblyReference.cache
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\obj\Debug\RubricsBasedProject.Properties.Resources.resources
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\obj\Debug\RubricsBasedProject.csproj.GenerateResource.cache
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\obj\Debug\RubricsBasedProject.csproj.CoreCompileInputs.cache
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\obj\Debug\RubricsBasedProject.exe
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\obj\Debug\RubricsBasedProject.pdb
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\obj\Debug\RubricsBasedProject.Frames.MainFrame.resources
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\obj\Debug\RubricsBasedProject.csproj.CopyComplete
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\bin\Debug\DragAssembly.dll
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\obj\Debug\RubricsBasedProject.Frames.PreAttend.resources
+D:\Semester 4\DBS Lab\bd2020-cs-110\RubricsBasedProject\RubricsBasedProject\bin\Debug\itextsharp.dll
